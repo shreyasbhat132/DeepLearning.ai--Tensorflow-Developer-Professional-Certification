@@ -1,4 +1,4 @@
-# DeepLearning.ai--Tensorflow-Developer-Professional-Certification
+# DeepLearning.ai - Tensorflow Developer Professional Certification
 
 The repository is a personal progress tracker and portfolio. This intermediate-level program focuses on applying machine learning skills with TensorFlow to build scalable AI-powered applications and prepare for the Google TensorFlow Certificate. The repository contains the jupyter notebooks covering core concepts of developing deep learning model using the Google's Tensorflow API. 
 
