@@ -29,8 +29,6 @@ Each course provides a deep dive into the relevant topics, equipping learners wi
 This repository is not officially affiliated with DeepLearning.ai. It is intended to provide supplementary educational material for learners pursuing the TensorFlow Developer Professional Certification.
 
 
-Note: Replace yourusername in the repository clone command with your GitHub username.
-
 
 
 
